@@ -1,4 +1,4 @@
-# Match-3 Bot (Greedy)
+# Implementasi Algoritma Greedy dan Template Matching untuk Otomatisasi Pencapaian Skor Maksimal pada Permainan Candy Crush
 
 **Mata Kuliah:** STIMA — Strategi Algoritma  
 **Nama:** Dika Pramudya Nugraha  
